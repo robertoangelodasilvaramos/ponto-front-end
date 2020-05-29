@@ -1,4 +1,3 @@
-[![Build Status](https://travis-ci.org/robertoangelodasilvaramos/ponto-front-end.svg?branch=master)](https://travis-ci.org/robertoangelodasilvaramos/ponto-front-end)
 
 # Empresa
 
